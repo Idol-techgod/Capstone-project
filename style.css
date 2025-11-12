@@ -1,0 +1,23 @@
+body{
+    background-color: lightblue;
+}
+
+span{
+    color: grey;
+}
+
+.coding{
+    border-radius: 40%;
+}
+
+#footer{
+    background-color: black;
+}
+
+#footer p {
+    color: white !important;
+}
+
+#footer li > a {
+    color: white !important;
+}
